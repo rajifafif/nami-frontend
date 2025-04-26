@@ -1,0 +1,1 @@
+import{i as f,c3 as e,c4 as q}from"./BSGE5GTI.js";const j=(c,r)=>f(()=>{if(!(r!=null&&r.query))return e(c);const a=e(c),t=e(r==null?void 0:r.query),u=Object.fromEntries(Object.entries(t).map(([y,m])=>[y,e(m)]));return`${a}${u?`?${q(u)}`:""}`});export{j as c};

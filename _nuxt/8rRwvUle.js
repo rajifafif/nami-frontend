@@ -1,0 +1,1 @@
+import{a3 as r,a4 as a,a5 as p}from"./BSGE5GTI.js";import{a as m}from"./276_PEDG.js";const d=r()({name:"VSlideGroupItem",props:a(),emits:{"group:selected":s=>!0},setup(s,o){let{slots:t}=o;const e=p(s,m);return()=>{var l;return(l=t.default)==null?void 0:l.call(t,{isSelected:e.isSelected.value,select:e.select,toggle:e.toggle,selectedClass:e.selectedClass.value})}}});export{d as V};

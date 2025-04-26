@@ -1,0 +1,1 @@
+import{bA as s,j as c}from"./BSGE5GTI.js";const i=$fetch.create({async onRequest({options:e}){e.baseURL=s().public.apiBaseUrl||"/api";const a=c("accessToken").value;a&&(e.headers={...e.headers,Authorization:`Bearer ${a}`})}});export{i as $};

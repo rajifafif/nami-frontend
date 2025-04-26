@@ -1,0 +1,1 @@
+import{u as s}from"./-hOqu-RC.js";import{d as t,c as o,o as n,Z as l}from"./BSGE5GTI.js";const r={class:"layout-wrapper layout-blank","data-allow-mismatch":""},u=t({__name:"blank",setup(c){const{injectSkinClasses:a}=s();return a(),(e,i)=>(n(),o("div",r,[l(e.$slots,"default")]))}});export{u as default};
